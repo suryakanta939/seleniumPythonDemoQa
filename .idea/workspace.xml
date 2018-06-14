@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2e9e416-3959-4337-8d5c-83f578176233" name="Default" comment="" />
+    <list default="true" id="f2e9e416-3959-4337-8d5c-83f578176233" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/tests/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/tests/geckodriver.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_demo_qa.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_demo_qa.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/Testing_file/test_demo_qa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="21" column="62" lean-forward="true" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+            <state relative-caret-position="233">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -35,10 +39,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="test_demo1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Testing_Sample/test_demo1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="test_suite_demo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_suite_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-189">
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testdat.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testdat.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="invoke_browser.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baseUtils/invoke_browser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
+            <state relative-caret-position="294">
               <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -74,18 +99,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/baseUtils/invoke_browser.py" />
         <option value="$PROJECT_DIR$/tests/conftest.py" />
-        <option value="$PROJECT_DIR$/commonUtils/get_file.py" />
         <option value="$PROJECT_DIR$/tests/Testing_file/test_demo_qa.py" />
+        <option value="$PROJECT_DIR$/commonUtils/get_file.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="484" />
     <option name="y" value="3" />
     <option name="width" value="696" />
@@ -106,34 +134,12 @@
             <path>
               <item name="DemoQaWithEnv" type="b2602c69:ProjectViewProjectNode" />
               <item name="DemoQaWithEnv" type="462c0819:PsiDirectoryNode" />
-              <item name="baseUtils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoQaWithEnv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoQaWithEnv" type="462c0819:PsiDirectoryNode" />
               <item name="commonUtils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DemoQaWithEnv" type="b2602c69:ProjectViewProjectNode" />
               <item name="DemoQaWithEnv" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoQaWithEnv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoQaWithEnv" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoQaWithEnv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoQaWithEnv" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Testing_file" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoQaWithEnv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoQaWithEnv" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Testing_Sample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,14 +208,14 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -273,14 +279,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/conftest.py" />
     <entry file="file://$PROJECT_DIR$/tests/Testing_file/cheking.py" />
-    <entry file="file://$PROJECT_DIR$/tests/Testing_Sample/test_demo1.py" />
-    <entry file="file://$PROJECT_DIR$/commonUtils/get_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/baseUtils/selenium_driver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-210">
@@ -300,7 +298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baseUtils/invoke_browser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
+        <state relative-caret-position="294">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -308,15 +306,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Testing_file/test_demo_qa.py">
+    <entry file="file://$PROJECT_DIR$/commonUtils/get_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="21" column="62" lean-forward="true" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Testing_file/test_demo_qa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Testing_Sample/test_demo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_suite_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdat.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
